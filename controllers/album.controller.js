@@ -139,7 +139,7 @@ const deleteImage =  catchAsync(async (req, res) => {
 
 });
 
-// A rajouter Historique de consultation d'album + affichage d'image (tips: modification de la bdd)
+// A rajouter Historique de consultation d'album affichage d'image (tips: modification de la bdd)
 
 module.exports = {
     albums,
